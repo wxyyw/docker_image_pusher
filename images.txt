@@ -1,2 +1,3 @@
 redis:6.2.6
 mysql:5.7
+emqx:5.0.4
