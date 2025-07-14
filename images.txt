@@ -1,1 +1,1 @@
-foxiswho/rocketmq:4.8.0
+pgvector/pgvector:pg16
